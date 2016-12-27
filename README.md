@@ -3,50 +3,50 @@
 #### Aries: 
 ##### Mars: asserts, god of war
 
-## House 2
+## House 2: sense of security, body ego
 ### Earth Fixed
-#### Taurus
+#### Taurus: steady, determined
 ##### Venus: ditto
 
-## House 3
+## House 3: mental ego, concrete mind, math brain, context
 ### Air Mutable
-#### Gemini
+#### Gemini: curious for knowledge
 ##### Mercury: curious, self improvement, protect, preserve, god of messages
 
-## House 4
+## House 4: the I inside, father
 ### Water Cardinal
-#### Cancer
+#### Cancer: retreats, intuitive, feelings, highly spiritual
 ##### Moon: 
 
-## House 5
+## House 5: to be someone, family
 ### Fire Fixed
-#### Leo
+#### Leo: showy
 ##### Sun
 
-## House 6
+## House 6: boundary
 ### Earth Mutable
-#### Virgo
+#### Virgo: focused, precise
 ##### Mercury: ditto
 
-## House 7
+## House 7: harmony with others, wife
 ### Air Cardinal
-#### Libra
+#### Libra: one-on-one, artistic, diplomat, beauty
 ##### Venus: harmonizes, goddest of love
 
-## House 8
+## House 8: transcend
 ### Water Fixed
 #### Scorpio
 ##### Mars: ditto
 ##### Pluto: danger, crisis, god of death
 
-## House 9
+## House 9: abstract mind, arts brain
 ### Fire Mutable
-#### Sagitarius
+#### Sagitarius: excited
 ##### Jupiter: expands, abundance, leader of gods
 
-## House 10
+## House 10: 
 ### Earth Cardinal
-#### Capricorn
+#### Capricorn: fearful
 ##### Saturn: restricts, cold, unloving, distant, duty
 
 ## House 11
@@ -57,6 +57,6 @@
 
 ## House 12
 ### Water Mutable
-#### Pisces
+#### Pisces: healer, server
 ##### Jupiter: ditto
 ##### Neptune: healer, server, sea, music
