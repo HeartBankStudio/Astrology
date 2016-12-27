@@ -6,6 +6,7 @@
 ## House 2
 ### Earth Fixed
 #### Taurus
+##### Venus: ditto
 
 ## House 3
 ### Air Mutable
@@ -15,7 +16,7 @@
 ## House 4
 ### Water Cardinal
 #### Cancer
-##### Neptune?: healer, server, sea, music
+##### Moon: 
 
 ## House 5
 ### Fire Fixed
@@ -25,6 +26,7 @@
 ## House 6
 ### Earth Mutable
 #### Virgo
+##### Mercury: ditto
 
 ## House 7
 ### Air Cardinal
@@ -34,6 +36,7 @@
 ## House 8
 ### Water Fixed
 #### Scorpio
+##### Mars: ditto
 ##### Pluto: danger, crisis, god of death
 
 ## House 9
@@ -49,9 +52,11 @@
 ## House 11
 ### Air Fixed
 #### Aquarius
+##### Saturn: ditto
 ##### Uranus: disruption, change, unpredictable, exciting, individualistic
 
 ## House 12
 ### Water Mutable
 #### Pisces
+##### Jupiter: ditto
 ##### Neptune: healer, server, sea, music
