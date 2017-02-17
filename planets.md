@@ -1,28 +1,13 @@
 ## Planets
 
-- mercury: demigod of knowledge
-- mars: god of war
-- venus: goddess of love
-- earth/sun: god of destiny
-- moon: goddess of emotion
-- saturn: demigod of pain
-- uranus: god of change
-- neptune: goddess of creativity
-- pluto: goddess of death
-- chiron: god of healing
-
-## Houses
-
-1. aries: mars
-2. taurus: venus
-3. gemini: mercury
-4. cancer: cancer
-5. leo: sun
-6. virgo: mercury
-7. libra: venus
-8. scorpio: mars, pluto
-9. sagittarius: jupiter
-10. capricorn: saturn
-11. aquarius: saturn, uranus
-12. pisces: jupiter, neptune
+1. mercury: demigod of knowledge
+2. mars: god of war
+3. venus: goddess of love
+4. earth/sun: god of destiny
+5. moon: goddess of emotion
+6. saturn: demigod of pain
+7. uranus: god of change
+8. neptune: goddess of creativity
+9. pluto: goddess of death
+10. chiron: god of healing
 
