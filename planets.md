@@ -1,3 +1,5 @@
+## Planets
+
 - mercury: demigod of knowledge
 - mars: god of war
 - venus: goddess of love
@@ -9,7 +11,7 @@
 - pluto: goddess of death
 - chiron: god of healing
 
-==
+## Houses
 
 1. aries: mars
 2. taurus: venus
