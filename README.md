@@ -1,4 +1,4 @@
 ## Contents
 
-- [[Houses|houses]]
-- [[Planets|planets]]
+- [Houses](houses.md)
+- [Planets](planets.md)
