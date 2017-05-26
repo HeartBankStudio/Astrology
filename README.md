@@ -4,6 +4,8 @@
 - [Houses](houses.md)
 - [Planets](planets.md)
 
+## Life's Journey
+
 - Rising
   - before journey
   - alone
